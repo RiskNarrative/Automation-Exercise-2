@@ -26,6 +26,10 @@ Please create an automated script that will cover the below scenario.
 
 5.	Script must check if there is at least one (or more) search results. If there is no results test must fail.
 
+# Report
+
+Test results should be handled by designated reporting tool
+
 # Criteria
 
 The tests are first written in a simple scenario form that describes the expected behavior of the system from the users perpective. 
@@ -36,3 +40,5 @@ Note: Any popup windows like “Accept cookies” must be handled gracefully.
 # Technologies
 
 Stack: Java, Selenium, Cucumber 
+
+Reporting: TestNG, JUnit, Serenity BDD 
