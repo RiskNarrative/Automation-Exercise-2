@@ -1,4 +1,4 @@
-# Automation-Exercise-2
+# automation-exercise-2
 
 # Overview
 
