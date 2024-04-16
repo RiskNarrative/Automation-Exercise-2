@@ -24,7 +24,7 @@ Please create an automated script that will cover the below scenario.
 
 4.	Then searches for “automation tester” in the search box 
 
-5.	Script must check if there is at least one (or more) search results. If there is no results test must fail.
+5.	Script must check if there is at least one (or more) search results. If there are no results test must fail.
 
 # Report
 
@@ -33,7 +33,7 @@ Test results should be handled by designated reporting tool
 # Criteria
 
 The tests are first written in a simple scenario form that describes the expected behavior of the system from the users perpective. 
-Cucumber must be easily read 
+Cucumber must be easily read.  
 
 Note: Any popup windows like “Accept cookies” must be handled gracefully. 
 
